@@ -133,4 +133,4 @@ else:
 
 # Rodapé
 st.markdown("---")
-st.caption("Desenvolvido para simulação de notas conforme Plano de Ensino 2025/2.")
+st.caption("Desenvolvido por Felipe Steffens, para simulação de notas conforme o Plano de Ensino 2025/2.")
